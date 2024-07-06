@@ -1,3 +1,3 @@
 # Restaurant-Management-System
 This project represents a comprehensive Restaurant Management System built using modern web technologies. It features a responsive frontend developed with HTML, CSS, and JavaScript, powered by ReactJS for dynamic user interfaces. The backend is driven by Node.js, facilitating robust server-side logic development. Firebase serves as the scalable database solution, ensuring real-time data storage and synchronization. Key functionalities include intuitive menu management, real-time order tracking, efficient reservation handling, customer feedback integration, and an admin dashboard for centralized control. This system exemplifies proficiency in full-stack development, emphasizing usability, performance, and scalability.
-![Uploading 68747470733a2f2f692e6962622e636f2f634e794a3039572f6568756e6772792e706e67.png…]()
+
